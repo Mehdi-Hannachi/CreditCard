@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  margin: 70px;
+  border-radius: 30px;
+  
+  padding: 30px;
+  width: 450px;
+  height: 220px;
+  background-image: url("./component/img.jpg.jpg");
+}
+
+.title {
+  color: white;
+  float: right;
+  font-size: 25px;
+  margin-right: 50px;
+}
+
+.container1 {
+  width: 300px;
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 70px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  color: white;
+}
+.puce {
+  width: 70px;
+  height: 60px;
+}
+.test{
+  width: 100%;
+ 
+  justify-content: space-between;
+  display: flex;
+  
+}
+
+.my{
+font-size: 10px;
+position: absolute;
+top: 90px;
+right: 0;
+
+}
+
+.valid{
+  font-size: 10px;
+  position: absolute;
+  top: 100px;
+  left: 220px;
+}
+.thru{
+  font-size: 10px;
+  position: absolute;
+  top: 110px;
+  left: 220px;
+
+}
+
+.rib {
+  font-size: 25px;
+  color: #d0d860;
+  opacity: 1;
+
+}
+.code{
+  font-size: 20px;
+}
+
+.date{
+  font-size: 23px;
+}
+
+
+.visa{
+  position: absolute;
+  top: 210px;
+  left: 450px;
+
+}
